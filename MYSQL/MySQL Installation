@@ -1,1 +1,9 @@
+Watch  - https://youtu.be/GwHpIl0vqY4 
 URL:  https://dev.mysql.com/downloads/installer/
+
+Open CMD ->  mysql --version
+
+-> mysql -u root -p (Enter Password)
+-> Show Databases;
+-> Create database database_name(laxshdb);
+-> show databases;
